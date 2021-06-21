@@ -3,12 +3,14 @@
 To determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program as an alternative to immediate retirement.
 
 ## Resources
+- Data Files: https://github.com/mcarson16/Pewlett-Hackard-Analysis/blob/main/Data.zip
+  - Original Files: departments.csv, dept_manager.csv, dept_emp.csv, titles.csv, salaries.csv, and employees.csv
 - pgAdmin 4
 - Visual Studio Code
 
 ## Results
 ![image](https://user-images.githubusercontent.com/83254435/122701000-f31d6900-d211-11eb-8ec0-dd6b7b01825b.png)
-- A total of 90,398 unique titles will be eligible for retirement.
+- A total of 90,398 employees will be eligible for retirement.
 - The majority of potential retirees come from the Engineer title, followed by Senior Staff.
 
 ![image](https://user-images.githubusercontent.com/83254435/122701473-f1a07080-d212-11eb-9e75-7bef99e6d2e7.png)
@@ -24,3 +26,5 @@ To determine the number of retiring employees per title, and identify employees 
 
 ## Summary
 - Hiring efforts will be most critical for the Engineer and Senior Staff titles.
+- Of the 90,398 potential retirees, only about 1% would be eligible for the mentorship program. 
+  - Eligible mentors could take on multiple mentees for a broader impact.
