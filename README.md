@@ -18,7 +18,7 @@ The purpose of the analysis is to determine the number of retiring employees per
 - 1,549 retiring employees are eligible for the mentorship program.
   - For full list of employees eligible for the mentorship program, see mentorship_eligibility.csv in https://github.com/mcarson16/Pewlett-Hackard-Analysis/blob/main/Data.zip
 - Mentorship eligibility by title does not strictly correlate to retirement by title.
-- No managers are currently eligible for the mentorship program.
+- No Managers are currently eligible for the mentorship program.
 
 ## Summary
 ### Retirement Analysis:
@@ -29,11 +29,11 @@ The purpose of the analysis is to determine the number of retiring employees per
 ### Mentorship Program Analysis:
 ![image](https://user-images.githubusercontent.com/83254435/122701473-f1a07080-d212-11eb-9e75-7bef99e6d2e7.png)
 - 1,549, roughly 1%, of all employees identified for retirement are eligible for the mentorship program.
-  - Full eligible Senior Staff participation recuperates 2%. 
-  - Full eligible Engineer participation recuperates 1%.
-  - Full eligible Staff participation recuperates 2%.
-  - Full eligible Senior Engineers participation recuperates 3%.
-  - Full eligible Technique Leader participation recuperates 1%.
-  - Full eligible Assistant Engineer participation recuperates 2%.
+  - Full eligible Senior Staff participation recuperates 2% for that title. 
+  - Full eligible Engineer participation recuperates 1% for that title. 
+  - Full eligible Staff participation recuperates 2% for that title. 
+  - Full eligible Senior Engineers participation recuperates 3% for that title. 
+  - Full eligible Technique Leader participation recuperates 1% for that title. 
+  - Full eligible Assistant Engineer participation recuperates 2% for that title. 
   - No Managers are currently eligible for the mentorship program.
 - Eligible mentors could take on multiple mentees for a broader impact.
